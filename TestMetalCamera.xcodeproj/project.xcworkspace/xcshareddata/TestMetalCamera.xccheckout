@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>IDESourceControlProjectFavoriteDictionaryKey</key>
+	<false/>
+	<key>IDESourceControlProjectIdentifier</key>
+	<string>CD6F8D2A-2201-49ED-A59B-F44A2394C626</string>
+	<key>IDESourceControlProjectName</key>
+	<string>TestMetalCamera</string>
+	<key>IDESourceControlProjectOriginsDictionary</key>
+	<dict>
+		<key>EAC2B8186C87E4E6923AB4AD3BFF838AB238BDED</key>
+		<string>https://bitbucket.org/eric_moreau/indalomobile.git</string>
+	</dict>
+	<key>IDESourceControlProjectPath</key>
+	<string>TestMetalCamera/TestMetalCamera.xcodeproj</string>
+	<key>IDESourceControlProjectRelativeInstallPathDictionary</key>
+	<dict>
+		<key>EAC2B8186C87E4E6923AB4AD3BFF838AB238BDED</key>
+		<string>../../..</string>
+	</dict>
+	<key>IDESourceControlProjectURL</key>
+	<string>https://bitbucket.org/eric_moreau/indalomobile.git</string>
+	<key>IDESourceControlProjectVersion</key>
+	<integer>111</integer>
+	<key>IDESourceControlProjectWCCIdentifier</key>
+	<string>EAC2B8186C87E4E6923AB4AD3BFF838AB238BDED</string>
+	<key>IDESourceControlProjectWCConfigurations</key>
+	<array>
+		<dict>
+			<key>IDESourceControlRepositoryExtensionIdentifierKey</key>
+			<string>public.vcs.git</string>
+			<key>IDESourceControlWCCIdentifierKey</key>
+			<string>EAC2B8186C87E4E6923AB4AD3BFF838AB238BDED</string>
+			<key>IDESourceControlWCCName</key>
+			<string>indalomobile</string>
+		</dict>
+	</array>
+</dict>
+</plist>

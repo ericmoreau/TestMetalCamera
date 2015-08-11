@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<VariablesViewState
+   version = "1.0">
+   <ContextStates>
+      <ContextState
+         contextName = "TestMetalCamera.CaptureVC.cameraSessionDidOutputSampleBuffer (TestMetalCamera.CaptureVC)(Swift.ImplicitlyUnwrappedOptional&lt;ObjectiveC.CMSampleBuffer&gt;, fromConnection : Swift.ImplicitlyUnwrappedOptional&lt;ObjectiveC.AVCaptureConnection&gt;) -&gt; ():CaptureVC.swift">
+         <PersistentStrings>
+            <PersistentString
+               value = "object.name">
+            </PersistentString>
+         </PersistentStrings>
+      </ContextState>
+   </ContextStates>
+</VariablesViewState>
